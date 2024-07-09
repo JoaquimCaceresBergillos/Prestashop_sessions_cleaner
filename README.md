@@ -1,2 +1,3 @@
-# Prestashop_sessions_cleaner
-Clean folder /var/sessions in Prestashop CMS
+# Prestashop_Sessions_Cleaner
+Under some circumstances it's necessary to clean the /var/sessions folder in Prestashop CMS manually or using a cronjob... 
+That's why I have created this script, just set the maxium age for the files and that's all, Enjoy!
